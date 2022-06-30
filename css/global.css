@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-image: url(./img/bg.png);
 }
 
 html{
@@ -20,10 +21,12 @@ html.dark{
   --text:#F8F8F8;
   --white:#F8F8F8;
   --purple:#0A66C2;
+  background-image: url(./img/bg.png);
 }
 
 body{
   background:var(--bg);
+  background-image: url(./img/bg.png);
   color:var(--text);
   font-family:sans-serif;
   display:flex;
