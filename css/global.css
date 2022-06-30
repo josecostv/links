@@ -6,12 +6,12 @@
 
 html{
   scroll-behavior:smooth;
-  background-image: ./img/bg.png;
+  background-image: url(./img/bg.png);
   --bg:#F8F8F8;
   --bg-checked:#29292E;
   --text:#29292E;
   --white:#F8F8F8;
-  --purple:#835AFD;
+  --purple:#0A66C2;
 }
 
 html.dark{
