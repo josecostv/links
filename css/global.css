@@ -2,12 +2,13 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-image: url(./img/bg.png);
 
 }
 
 html{
   scroll-behavior:smooth;
-  --bg:#F8F8F8;
+  --bg:background-image;
   --bg-checked:#29292E;
   --text:#29292E;
   --white:#F8F8F8;
