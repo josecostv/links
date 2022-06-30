@@ -6,6 +6,7 @@
 
 html{
   scroll-behavior:smooth;
+  background-image: ./img/bg.png;
   --bg:#F8F8F8;
   --bg-checked:#29292E;
   --text:#29292E;
